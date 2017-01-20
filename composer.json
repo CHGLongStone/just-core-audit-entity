@@ -1,5 +1,5 @@
 {
-	"name" : "just-core/auth-crude-acl",
+	"name" : "just-core/audit-entity",
 	"description" : "render markdown pages into the just-core UI harness",
 	"license" : "GNU",
 	"keywords" : [
@@ -14,7 +14,7 @@
 		"UI"
 	],
 	"version" : "0.*",
-	"homepage" : "https://chglongstone.github.io/just-core-auth-crude-acl",
+	"homepage" : "https://chglongstone.github.io/just-core-audit-entity",
 	"require" : {
 		"php" : ">=5.3.7"
 	},
