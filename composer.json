@@ -1,6 +1,6 @@
 {
 	"name" : "just-core/audit-entity",
-	"description" : "render markdown pages into the just-core UI harness",
+	"description" : "base entity extension to allow change auditing",
 	"license" : "GNU",
 	"keywords" : [
 		"just-core",
