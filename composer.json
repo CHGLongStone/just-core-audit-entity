@@ -1,7 +1,7 @@
 {
 	"name" : "just-core/audit-entity",
 	"description" : "base entity extension to allow change auditing",
-	"license" : "GNU",
+	"license" : "MIT",
 	"keywords" : [
 		"just-core",
 		"Service Oriented Architechture",
